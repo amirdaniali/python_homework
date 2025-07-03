@@ -23,7 +23,7 @@ def greet(name: str) -> str:
 # Task 3
 def calc(
     value1: Union[int, float], value2: Union[int, float], operation: str = "multiply"
-) -> Union[int, float, str]:
+) -> Union[int, float, str, None]:
     """
     Write a calc function. It takes three arguments. The default value for the third argument is "multiply". The first two arguments are values that are to be combined using the operation requested by the third argument, a string that is one of the following add, subtract, multiply, divide, modulo, int_divide (for integer division) and power. The function returns the result.
     Error handling: When the function is called, it could ask you to divide by 0. That will throw an exception: Which one? You can find out by triggering the exception in your program or in the Python Interactive Shell. Wrap the code within the calc function in a try block, and put in an except statement for this exception. If the exception occurs, return the string "You can't divide by 0!".
@@ -83,7 +83,7 @@ def calc(
 # Task 3
 def data_type_conversion(
     value: Union[int, str, float], name: str
-) -> Union[int, str, float]:
+) -> Union[int, str, float, None]:
     """
     Create a function called data_type_conversion. It takes two parameters, the value and the name of the data type requested, one of float, str, or int. Return the converted value.
     Error handling: The function might be called with a bad parameter. For example, the caller might try to convert the string "nonsense" to a float. Catch the error that occurs in this case. If this error occurs, return the string You can't convert {value} into a {type}., except you use the value and data type that are passed as parameters -- so again you use a formatted string.
