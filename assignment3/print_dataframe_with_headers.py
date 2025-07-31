@@ -41,7 +41,6 @@ class DFPlus(pd.DataFrame):
 
     def print_with_headers(self):
         for index in range(0, len(self), 10):
-            # print("salam")
             rows = super().iloc[index : index + 10, :]
             print(rows)
 

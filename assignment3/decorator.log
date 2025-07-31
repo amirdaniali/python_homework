@@ -22,3 +22,11 @@ function: my_function_1 positional parameters: none keyword parameters: none ret
 function: my_function_2 positional parameters: (4,) keyword parameters: none return: 16
 function: my_function_3 positional parameters: ('5', 'hello', 'ctd is awesome') keyword parameters: none return: True
 function: my_function_4 positional parameters: none keyword parameters: {'jack': 14, 'bob': 21, 'samantha': 98} return: <function logger_decorator at 0x0000021E06BEA700>
+function: my_function_1 positional parameters: none keyword parameters: none return: None
+function: my_function_2 positional parameters: (4,) keyword parameters: none return: 16
+function: my_function_3 positional parameters: ('5', 'hello', 'ctd is awesome') keyword parameters: none return: True
+function: my_function_4 positional parameters: none keyword parameters: {'jack': 14, 'bob': 21, 'samantha': 98} return: <function logger_decorator at 0x00000236ED7C4180>
+function: my_function_1 positional parameters: none keyword parameters: none return: None
+function: my_function_2 positional parameters: (4,) keyword parameters: none return: 16
+function: my_function_3 positional parameters: ('5', 'hello', 'ctd is awesome') keyword parameters: none return: True
+function: my_function_4 positional parameters: none keyword parameters: {'jack': 14, 'bob': 21, 'samantha': 98} return: <function logger_decorator at 0x0000022804138540>

@@ -28,16 +28,21 @@ def make_hangman(secret_word):
     return hangman_closure
 
 
-hidden_secret = "closure"
-game = make_hangman(hidden_secret)
-has_won = False
-tries = 0
-while not has_won:
-    user_guess = input("Type a single character guess for the hangman guess. ")
-    while len(user_guess) > 1:
-        user_guess = input("Invalid Input Error! Type a single character. ")
-    tries += 1
-    has_won = game(user_guess)
+def main():
+    hidden_secret = "closure"
+    game = make_hangman(hidden_secret)
+    has_won = False
+    tries = 0
+    while not has_won:
+        user_guess = input("Type a single character guess for the hangman guess. ")
+        while len(user_guess) > 1:
+            user_guess = input("Invalid Input Error! Type a single character. ")
+        tries += 1
+        has_won = game(user_guess)
 
-print("Good Job. The Secret was: ", hidden_secret)
-print("You finished the game in", tries, "tries.")
+    print("Good Job. The Secret was: ", hidden_secret)
+    print("You finished the game in", tries, "tries.")
+
+
+if __name__ == "__main__":
+    main()
