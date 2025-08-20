@@ -132,15 +132,15 @@ def grade(*args: int):
     """
 
     try:
-        calculated_sum: float = sum([x for x in args]) / len(args)
+        calculated_average = sum(args) / len(args)
 
-        if calculated_sum >= 90:
+        if calculated_average >= 90:
             return "A"
-        elif calculated_sum >= 80:
+        elif calculated_average >= 80:
             return "B"
-        elif calculated_sum >= 70:
+        elif calculated_average >= 70:
             return "C"
-        elif calculated_sum >= 60:
+        elif calculated_average >= 60:
             return "D"
         else:
             return "F"
@@ -181,7 +181,7 @@ def student_scores(operation: str, **kwargs: int):
         You can also get kwargs.keys() and kwargs.values().
     The arbitrary list of keyword arguments uses the names of students as the keywords and their test score as the value for each.
     """
-    if type(operation) != str:
+    if not isinstance(operation, str):
         return "Invalid operation was provided."
 
     analysed_operation: str = operation.lower()
@@ -196,7 +196,7 @@ def student_scores(operation: str, **kwargs: int):
 
     elif analysed_operation == "mean":
         try:
-            return sum([number for number in kwargs.values()]) / len(kwargs)
+            return sum(kwargs.values()) / len(kwargs)
         except (TypeError, ValueError):
             return "Invalid data was provided."
 
@@ -216,10 +216,12 @@ def titleize(string: str) -> str:
     try:
         all_words: List[str] = string.split(" ")
         return " ".join(
-            word.capitalize()
+            (
+                word.capitalize()
                 if word not in ["a", "on", "an", "the", "of", "and", "is", "in"]
                 or index in [0, len(all_words) - 1]
                 else (word)
+            )
             for index, word in enumerate(all_words)
         )
 
@@ -227,46 +229,44 @@ def titleize(string: str) -> str:
         return "Invalid input."
 
 
-#Task 9
+# Task 9
 def hangman(secret: str, guess: str) -> str:
     """
-    Create a function hangman. It takes two parameters, both strings, the secret and the guess.
-    The secret is some word that the caller doesn't know. So the caller guesses various letters, which are the ones in the guess string.
-    A string is returned. Each letter in the returned string corresponds to a letter in the secret, except any letters that are not in the guess string are replaced with an underscore. The others are returned in place. Not everyone has played this kid's game, but it's common in the US.
-    Example: Suppose the secret is "alphabet" and the guess is "ab". The returned string would be "a___ab__".
-    Note that Python strings are immutable. That means that the following code would give an error:
+        Create a function hangman. It takes two parameters, both strings, the secret and the guess.
+        The secret is some word that the caller doesn't know. So the caller guesses various letters, which are the ones in the guess string.
+        A string is returned. Each letter in the returned string corresponds to a letter in the secret, except any letters that are not in the guess string are replaced with an underscore. The others are returned in place. Not everyone has played this kid's game, but it's common in the US.
+        Example: Suppose the secret is "alphabet" and the guess is "ab". The returned string would be "a___ab__".
+        Note that Python strings are immutable. That means that the following code would give an error:
 
-secret = "alphabet"
-secret[1] = "_"
+    secret = "alphabet"
+    secret[1] = "_"
 
-    On the other hand, you can concatenate strings with the + operator.
-"""
-    return ''.join(
-        char 
-            if char in list(guess) 
-            else '_'
-        for char in list(secret)
-    )
+        On the other hand, you can concatenate strings with the + operator.
+    """
+    return "".join(char if char in list(guess) else "_" for char in list(secret))
 
-#Task 10
+
+# Task 10
 def pig_latin(sentence: str) -> str:
     """
     Pig Latin is a kid's trick language. Each word is modified according to the following rules. (1) If the string starts with a vowel (aeiou), "ay" is tacked onto the end. (2) If the string starts with one or several consonants, they are moved to the end and "ay" is tacked on after them. (3) "qu" is a special case, as both of them get moved to the end of the word, as if they were one consonant letter.
     Create a function called pig_latin. It takes an English string or sentence and converts it to Pig Latin, returning the result. We will assume that there is no punctuation and that everything is lower case.
-"""
-    all_words : List[str] = sentence.split(' ')
-    modified_sentence_list : List[str] = []
+    """
+    all_words: List[str] = sentence.split(" ")
+    modified_sentence_list: List[str] = []
 
     for word in all_words:
-        new_word : str = word
-        if word[0] in 'aeiou':
-            modified_sentence_list.append(word + 'ay')
+        new_word: str = word
+        if word[0] in "aeiou":
+            modified_sentence_list.append(word + "ay")
             continue
-        while new_word[0] not in 'aeiou':
-            if new_word[:2] in ['qu',]:
-                new_word =  new_word[2:] + new_word[:2] 
+        while new_word[0] not in "aeiou":
+            if new_word[:2] in [
+                "qu",
+            ]:
+                new_word = new_word[2:] + new_word[:2]
             else:
-                new_word =  new_word[1:] + new_word[:1] 
-        modified_sentence_list.append(new_word + 'ay')
+                new_word = new_word[1:] + new_word[:1]
+        modified_sentence_list.append(new_word + "ay")
 
-    return ' '.join(modified_sentence_list)
+    return " ".join(modified_sentence_list)
