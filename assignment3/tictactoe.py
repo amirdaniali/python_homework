@@ -72,12 +72,14 @@ class Board:
     def next_turn(self):
         self.last_move = ["o", "x"][self.total_turns % 2]
         self.total_turns += 1
-        return ["o", "x"][self.total_turns % 2]
+        next_player = ["o", "x"][self.total_turns % 2]
+        return next_player
 
     def whats_next(self):
         for row in self.board_array:
             if "".join(row) in ["xxx", "ooo"]:
-                return (True, row[0])
+                winner = row[0]
+                return (True, winner) # We have a winner and the winner is either x or o
 
         for column in range(3):
             if (
@@ -86,7 +88,8 @@ class Board:
                 == self.board_array[2][column]
                 != " "
             ):
-                return (True, self.board_array[0][column])
+                winner = self.board_array[0][column]
+                return (True, winner) # We have a winner and the winner is either x or o
 
         if (
             self.board_array[0][0]
@@ -94,20 +97,22 @@ class Board:
             == self.board_array[2][2]
             != " "
         ):
-            return (True, self.board_array[0][0])
+            winner = self.board_array[0][0]
+            return (True, winner) # We have a winner and the winner is either x or o
         if (
             self.board_array[0][2]
             == self.board_array[1][1]
             == self.board_array[2][0]
             != " "
         ):
-            return (True, self.board_array[0][2])
+            winner = self.board_array[0][2]
+            return (True, winner) # We have a winner and the winner is either x or o
 
         board_str = "".join(move for row in self.board_array for move in row)
         if not board_str.count(" "):
             # The game has ended. Its a draw.
             return (True, "Cat's Game")
-        return (False, self.turn)  # Game hasn't ended.
+        return (False, self.turn)  # Game hasn't ended. We return the turn number instead of a winner.
 
     def __str__(self):
         lines = []
