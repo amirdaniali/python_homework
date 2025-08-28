@@ -360,9 +360,13 @@ def create_minutes_list():
     """
     minutes_list = list(minutes_set)
 
-    minutes = map(
-        lambda row: (row[0], datetime.strptime(row[1], "%B %d, %Y")), minutes_list
-    )
+    # minutes = map(
+    #     lambda row: (row[0], datetime.strptime(row[1], "%B %d, %Y")), minutes_list
+    # )
+
+    minutes = [
+        (item[0], datetime.strptime(item[1], "%B %d, %Y")) for item in minutes_list
+    ]
 
     return list(minutes)
 
