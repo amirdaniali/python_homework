@@ -41,10 +41,16 @@ def task1_2(df: pd.DataFrame) -> pd.DataFrame:
     Add a column called Salary with values [70000, 80000, 90000].
     Print the new DataFrame and run the tests.
     """
+    # New way
     new_df = df.copy()
-    other = pd.DataFrame({"Salary": [70000, 80000, 90000]})
-    # print(other)
-    return pd.concat([new_df, other], axis=1)
+    new_df["Salary"] = pd.Series([70000, 80000, 90000])
+    return new_df
+
+    # Old way
+    # new_df = df.copy()
+    # other = pd.DataFrame({"Salary": [70000, 80000, 90000]})
+    # # print(other)
+    # return pd.concat([new_df, other], axis=1)
 
 
 task1_with_salary = task1_2(task1_data_frame)
@@ -58,11 +64,17 @@ def task1_3(df: pd.DataFrame) -> pd.DataFrame:
     Print the modified DataFrame to verify the changes and run the tests.
 
     """
+    # New Way
     new_df = df.copy()
-    ages = new_df.iloc[:, 1]
-    ages = ages + 1
-    new_df["Age"] = ages
+    new_df["Age"] = new_df["Age"] + 1
     return new_df
+
+    # Old Way:
+    # new_df = df.copy()
+    # ages = new_df.iloc[:, 1]
+    # ages = ages + 1
+    # new_df["Age"] = ages
+    # return new_df
 
 
 task1_older = task1_3(task1_with_salary)
@@ -124,8 +136,8 @@ def task2_2() -> pd.DataFrame:
         columns=["Name", "Age", "City", "Salary"],
     )
 
-    with open(BASEDIR / "additional_employees.json", "w") as f:
-        # with open("additional_employees.json", "w") as f:
+    # with open(BASEDIR / "additional_employees.json", "w") as f:
+    with open("additional_employees.json", "w") as f:
         # my project root dir is not python_homework so i needed the Basedir path resolver
         # but then the test wouldnt run because the test is checking assert os.access("./additional_employees.json", os.F_OK) == True
         # which fails because my ./ is not the parent file directory
@@ -145,8 +157,8 @@ def task2_2_load() -> pd.DataFrame:
 
     """
 
-    with open(BASEDIR / "additional_employees.json", "r") as f:
-        # with open("./additional_employees.json", "r") as f:
+    # with open(BASEDIR / "additional_employees.json", "r") as f:
+    with open("./additional_employees.json", "r") as f:
         # my project root dir is not python_homework so i needed the Basedir path resolver
         # but then the test wouldnt run because the test is checking assert os.access("./additional_employees.json", os.F_OK) == True
         # which fails because my ./ is not the parent file directory
@@ -284,7 +296,7 @@ def task4_5(df: pd.DataFrame):
     """
 
     df.fillna({"Salary": df["Salary"].median()}, inplace=True)
-    df.fillna({"Age": df["Age"].median()}, inplace=True)
+    df.fillna({"Age": df["Age"].mean()}, inplace=True)
     return df
 
 
