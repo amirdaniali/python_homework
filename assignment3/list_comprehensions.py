@@ -26,7 +26,7 @@ def read_employees() -> dict[list[str]]:
         for index, employee in df.iloc[:, [1, 2]].iterrows()
     ]
     employees_e = [
-        employee for employee in employees if employee.count("e")
+        employee for employee in employees if employee.count("Ng")
     ]  # counts of zero are ignored
     print(employees_e)
 
