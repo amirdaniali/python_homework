@@ -1,0 +1,1093 @@
+,line_item_id,quantity,product_id,product_name,price,total
+333,339,17,5,Wooden Shoes,8.22,139.74
+504,514,1,5,Wooden Shoes,8.22,8.22
+487,494,17,5,Wooden Shoes,8.22,139.74
+966,982,7,5,Wooden Shoes,8.22,57.540000000000006
+703,716,14,5,Wooden Shoes,8.22,115.08000000000001
+462,469,16,5,Wooden Shoes,8.22,131.52
+322,328,9,5,Wooden Shoes,8.22,73.98
+325,331,20,5,Wooden Shoes,8.22,164.4
+1006,1023,17,5,Wooden Shoes,8.22,139.74
+331,337,1,5,Wooden Shoes,8.22,8.22
+57,58,5,5,Wooden Shoes,8.22,41.1
+498,507,6,5,Wooden Shoes,8.22,49.32000000000001
+921,937,20,5,Wooden Shoes,8.22,164.4
+908,924,8,5,Wooden Shoes,8.22,65.76
+819,834,16,5,Wooden Shoes,8.22,131.52
+92,93,6,5,Wooden Shoes,8.22,49.32000000000001
+586,597,13,5,Wooden Shoes,8.22,106.86000000000001
+987,1004,3,5,Wooden Shoes,8.22,24.660000000000004
+381,387,13,5,Wooden Shoes,8.22,106.86000000000001
+1086,1104,6,5,Wooden Shoes,8.22,49.32000000000001
+48,49,19,38,Wooden Mouse,5.04,95.76
+211,212,15,38,Wooden Mouse,5.04,75.6
+256,258,19,38,Wooden Mouse,5.04,95.76
+617,629,16,38,Wooden Mouse,5.04,80.64
+962,978,3,38,Wooden Mouse,5.04,15.120000000000001
+691,704,5,38,Wooden Mouse,5.04,25.2
+165,166,20,38,Wooden Mouse,5.04,100.8
+935,951,5,38,Wooden Mouse,5.04,25.2
+787,802,14,38,Wooden Mouse,5.04,70.56
+93,94,14,38,Wooden Mouse,5.04,70.56
+897,912,2,38,Wooden Mouse,5.04,10.08
+839,854,4,38,Wooden Mouse,5.04,20.16
+553,563,9,38,Wooden Mouse,5.04,45.36
+863,878,1,38,Wooden Mouse,5.04,5.04
+1008,1025,7,38,Wooden Mouse,5.04,35.28
+1012,1029,13,38,Wooden Mouse,5.04,65.52
+1050,1068,8,38,Wooden Mouse,5.04,40.32
+296,301,15,38,Wooden Mouse,5.04,75.6
+531,541,1,9,Unbranded Wooden Keyboard,0.83,0.83
+753,767,11,9,Unbranded Wooden Keyboard,0.83,9.129999999999999
+493,502,16,9,Unbranded Wooden Keyboard,0.83,13.28
+965,981,4,9,Unbranded Wooden Keyboard,0.83,3.32
+730,743,19,9,Unbranded Wooden Keyboard,0.83,15.77
+956,972,5,9,Unbranded Wooden Keyboard,0.83,4.1499999999999995
+35,36,16,9,Unbranded Wooden Keyboard,0.83,13.28
+336,342,10,9,Unbranded Wooden Keyboard,0.83,8.299999999999999
+26,27,12,9,Unbranded Wooden Keyboard,0.83,9.959999999999999
+810,825,3,9,Unbranded Wooden Keyboard,0.83,2.4899999999999998
+124,125,14,9,Unbranded Wooden Keyboard,0.83,11.62
+351,357,15,9,Unbranded Wooden Keyboard,0.83,12.45
+821,836,14,9,Unbranded Wooden Keyboard,0.83,11.62
+384,390,18,9,Unbranded Wooden Keyboard,0.83,14.94
+851,866,15,9,Unbranded Wooden Keyboard,0.83,12.45
+301,306,17,9,Unbranded Wooden Keyboard,0.83,14.11
+734,747,11,9,Unbranded Wooden Keyboard,0.83,9.129999999999999
+632,644,11,9,Unbranded Wooden Keyboard,0.83,9.129999999999999
+604,616,10,9,Unbranded Wooden Keyboard,0.83,8.299999999999999
+263,266,8,9,Unbranded Wooden Keyboard,0.83,6.64
+596,607,14,9,Unbranded Wooden Keyboard,0.83,11.62
+379,385,11,9,Unbranded Wooden Keyboard,0.83,9.129999999999999
+800,815,19,39,Unbranded Wooden Hat,6.36,120.84
+738,752,11,39,Unbranded Wooden Hat,6.36,69.96000000000001
+846,861,4,39,Unbranded Wooden Hat,6.36,25.44
+219,221,6,39,Unbranded Wooden Hat,6.36,38.160000000000004
+828,843,16,39,Unbranded Wooden Hat,6.36,101.76
+905,921,7,39,Unbranded Wooden Hat,6.36,44.52
+578,589,7,39,Unbranded Wooden Hat,6.36,44.52
+374,380,2,39,Unbranded Wooden Hat,6.36,12.72
+764,778,11,39,Unbranded Wooden Hat,6.36,69.96000000000001
+11,12,18,39,Unbranded Wooden Hat,6.36,114.48
+466,473,20,39,Unbranded Wooden Hat,6.36,127.2
+958,974,19,39,Unbranded Wooden Hat,6.36,120.84
+510,520,16,39,Unbranded Wooden Hat,6.36,101.76
+126,127,14,26,Unbranded Chicken,4.86,68.04
+568,579,14,26,Unbranded Chicken,4.86,68.04
+873,888,2,26,Unbranded Chicken,4.86,9.72
+859,874,16,26,Unbranded Chicken,4.86,77.76
+849,864,9,26,Unbranded Chicken,4.86,43.74
+62,63,9,26,Unbranded Chicken,4.86,43.74
+892,907,6,26,Unbranded Chicken,4.86,29.160000000000004
+401,408,11,26,Unbranded Chicken,4.86,53.46
+1039,1057,3,26,Unbranded Chicken,4.86,14.580000000000002
+347,353,17,26,Unbranded Chicken,4.86,82.62
+9,10,18,26,Unbranded Chicken,4.86,87.48
+528,538,7,26,Unbranded Chicken,4.86,34.02
+169,170,20,26,Unbranded Chicken,4.86,97.2
+606,618,16,26,Unbranded Chicken,4.86,77.76
+916,932,20,26,Unbranded Chicken,4.86,97.2
+955,971,16,26,Unbranded Chicken,4.86,77.76
+168,169,19,26,Unbranded Chicken,4.86,92.34
+741,755,17,26,Unbranded Chicken,4.86,82.62
+447,454,14,26,Unbranded Chicken,4.86,68.04
+989,1006,11,26,Unbranded Chicken,4.86,53.46
+154,155,1,26,Unbranded Chicken,4.86,4.86
+106,107,14,26,Unbranded Chicken,4.86,68.04
+14,15,6,26,Unbranded Chicken,4.86,29.160000000000004
+792,807,15,26,Unbranded Chicken,4.86,72.9
+259,261,20,47,Tuna,9.72,194.4
+152,153,3,47,Tuna,9.72,29.160000000000004
+557,567,15,47,Tuna,9.72,145.8
+210,211,20,47,Tuna,9.72,194.4
+270,274,12,47,Tuna,9.72,116.64000000000001
+417,424,6,47,Tuna,9.72,58.32000000000001
+133,134,14,47,Tuna,9.72,136.08
+511,521,6,47,Tuna,9.72,58.32000000000001
+693,706,14,47,Tuna,9.72,136.08
+1065,1083,17,47,Tuna,9.72,165.24
+55,56,16,47,Tuna,9.72,155.52
+1045,1063,4,47,Tuna,9.72,38.88
+22,23,11,47,Tuna,9.72,106.92
+324,330,3,32,Tasty Pizza,4.15,12.450000000000001
+408,415,12,32,Tasty Pizza,4.15,49.800000000000004
+407,414,20,32,Tasty Pizza,4.15,83.0
+644,656,13,32,Tasty Pizza,4.15,53.95
+266,269,3,32,Tasty Pizza,4.15,12.450000000000001
+799,814,20,32,Tasty Pizza,4.15,83.0
+627,639,15,32,Tasty Pizza,4.15,62.25000000000001
+1024,1042,20,32,Tasty Pizza,4.15,83.0
+289,294,3,32,Tasty Pizza,4.15,12.450000000000001
+394,400,3,32,Tasty Pizza,4.15,12.450000000000001
+611,623,19,32,Tasty Pizza,4.15,78.85000000000001
+1033,1051,7,32,Tasty Pizza,4.15,29.050000000000004
+311,316,13,32,Tasty Pizza,4.15,53.95
+762,776,1,32,Tasty Pizza,4.15,4.15
+314,319,18,32,Tasty Pizza,4.15,74.7
+387,393,15,32,Tasty Pizza,4.15,62.25000000000001
+876,891,5,32,Tasty Pizza,4.15,20.75
+594,605,11,32,Tasty Pizza,4.15,45.650000000000006
+635,647,4,32,Tasty Pizza,4.15,16.6
+963,979,9,27,Table,2.67,24.03
+793,808,1,27,Table,2.67,2.67
+773,788,13,27,Table,2.67,34.71
+515,525,12,27,Table,2.67,32.04
+196,197,6,27,Table,2.67,16.02
+267,270,7,27,Table,2.67,18.689999999999998
+119,120,18,27,Table,2.67,48.06
+399,406,20,27,Table,2.67,53.4
+813,828,3,27,Table,2.67,8.01
+396,403,14,27,Table,2.67,37.379999999999995
+125,126,16,27,Table,2.67,42.72
+235,237,11,27,Table,2.67,29.369999999999997
+390,396,1,27,Table,2.67,2.67
+598,610,15,27,Table,2.67,40.05
+600,612,7,27,Table,2.67,18.689999999999998
+576,587,9,27,Table,2.67,24.03
+364,370,8,27,Table,2.67,21.36
+302,307,20,49,Steel Sausages,5.35,107.0
+749,763,15,49,Steel Sausages,5.35,80.25
+610,622,1,49,Steel Sausages,5.35,5.35
+1,2,20,49,Steel Sausages,5.35,107.0
+190,191,12,49,Steel Sausages,5.35,64.19999999999999
+223,225,20,49,Steel Sausages,5.35,107.0
+53,54,19,49,Steel Sausages,5.35,101.64999999999999
+218,220,17,49,Steel Sausages,5.35,90.94999999999999
+310,315,18,49,Steel Sausages,5.35,96.3
+593,604,15,49,Steel Sausages,5.35,80.25
+395,401,19,49,Steel Sausages,5.35,101.64999999999999
+88,89,18,49,Steel Sausages,5.35,96.3
+406,413,11,49,Steel Sausages,5.35,58.849999999999994
+1058,1076,6,49,Steel Sausages,5.35,32.099999999999994
+359,365,12,49,Steel Sausages,5.35,64.19999999999999
+806,821,13,49,Steel Sausages,5.35,69.55
+923,939,16,49,Steel Sausages,5.35,85.6
+1026,1044,4,31,Steel Mouse,1.24,4.96
+303,308,4,31,Steel Mouse,1.24,4.96
+97,98,17,31,Steel Mouse,1.24,21.08
+978,994,7,31,Steel Mouse,1.24,8.68
+186,187,10,31,Steel Mouse,1.24,12.4
+665,678,15,31,Steel Mouse,1.24,18.6
+193,194,9,31,Steel Mouse,1.24,11.16
+1002,1019,5,31,Steel Mouse,1.24,6.2
+721,734,6,31,Steel Mouse,1.24,7.4399999999999995
+275,279,7,31,Steel Mouse,1.24,8.68
+554,564,12,31,Steel Mouse,1.24,14.879999999999999
+765,779,14,31,Steel Mouse,1.24,17.36
+252,254,3,31,Steel Mouse,1.24,3.7199999999999998
+1003,1020,19,31,Steel Mouse,1.24,23.56
+950,966,3,31,Steel Mouse,1.24,3.7199999999999998
+327,333,11,31,Steel Mouse,1.24,13.64
+590,601,7,31,Steel Mouse,1.24,8.68
+313,318,4,31,Steel Mouse,1.24,4.96
+458,465,10,31,Steel Mouse,1.24,12.4
+739,753,9,31,Steel Mouse,1.24,11.16
+239,241,11,31,Steel Mouse,1.24,13.64
+761,775,10,31,Steel Mouse,1.24,12.4
+746,760,16,31,Steel Mouse,1.24,19.84
+645,657,10,33,Steel Computer,7.42,74.2
+454,461,4,33,Steel Computer,7.42,29.68
+527,537,5,33,Steel Computer,7.42,37.1
+878,893,14,33,Steel Computer,7.42,103.88
+423,430,13,33,Steel Computer,7.42,96.46
+688,701,17,33,Steel Computer,7.42,126.14
+495,504,5,33,Steel Computer,7.42,37.1
+357,363,7,33,Steel Computer,7.42,51.94
+47,48,8,33,Steel Computer,7.42,59.36
+843,858,16,33,Steel Computer,7.42,118.72
+638,650,10,21,Steel Car,9.18,91.8
+939,955,17,21,Steel Car,9.18,156.06
+642,654,11,21,Steel Car,9.18,100.97999999999999
+414,421,6,21,Steel Car,9.18,55.08
+629,641,14,21,Steel Car,9.18,128.51999999999998
+382,388,11,21,Steel Car,9.18,100.97999999999999
+261,263,20,21,Steel Car,9.18,183.6
+319,325,10,21,Steel Car,9.18,91.8
+529,539,14,21,Steel Car,9.18,128.51999999999998
+320,326,6,21,Steel Car,9.18,55.08
+802,817,7,21,Steel Car,9.18,64.25999999999999
+391,397,3,21,Steel Car,9.18,27.54
+432,439,5,21,Steel Car,9.18,45.9
+838,853,12,21,Steel Car,9.18,110.16
+992,1009,20,21,Steel Car,9.18,183.6
+937,953,7,21,Steel Car,9.18,64.25999999999999
+44,45,13,21,Steel Car,9.18,119.34
+1060,1078,10,21,Steel Car,9.18,91.8
+260,262,4,13,Soft Pizza,1.81,7.24
+90,91,7,13,Soft Pizza,1.81,12.67
+889,904,6,13,Soft Pizza,1.81,10.86
+247,249,14,13,Soft Pizza,1.81,25.34
+442,449,9,13,Soft Pizza,1.81,16.29
+422,429,11,13,Soft Pizza,1.81,19.91
+1027,1045,18,13,Soft Pizza,1.81,32.58
+745,759,2,13,Soft Pizza,1.81,3.62
+20,21,1,13,Soft Pizza,1.81,1.81
+951,967,10,13,Soft Pizza,1.81,18.1
+592,603,16,13,Soft Pizza,1.81,28.96
+491,500,15,13,Soft Pizza,1.81,27.150000000000002
+716,729,17,13,Soft Pizza,1.81,30.77
+782,797,11,13,Soft Pizza,1.81,19.91
+337,343,12,13,Soft Pizza,1.81,21.72
+338,344,3,13,Soft Pizza,1.81,5.43
+925,941,11,13,Soft Pizza,1.81,19.91
+685,698,16,13,Soft Pizza,1.81,28.96
+661,673,12,13,Soft Pizza,1.81,21.72
+505,515,12,22,Small Shirt,6.81,81.72
+502,512,11,22,Small Shirt,6.81,74.91
+539,549,9,22,Small Shirt,6.81,61.29
+995,1012,9,22,Small Shirt,6.81,61.29
+1037,1055,2,22,Small Shirt,6.81,13.62
+440,447,9,22,Small Shirt,6.81,61.29
+279,284,4,22,Small Shirt,6.81,27.24
+535,545,13,22,Small Shirt,6.81,88.53
+380,386,12,22,Small Shirt,6.81,81.72
+105,106,8,22,Small Shirt,6.81,54.48
+595,606,5,22,Small Shirt,6.81,34.05
+720,733,3,22,Small Shirt,6.81,20.43
+622,634,8,22,Small Shirt,6.81,54.48
+754,768,10,22,Small Shirt,6.81,68.1
+180,181,10,22,Small Shirt,6.81,68.1
+179,180,19,22,Small Shirt,6.81,129.39
+194,195,13,22,Small Shirt,6.81,88.53
+418,425,8,15,Small Fish,1.34,10.72
+295,300,7,15,Small Fish,1.34,9.38
+922,938,3,15,Small Fish,1.34,4.0200000000000005
+659,671,5,15,Small Fish,1.34,6.7
+129,130,16,15,Small Fish,1.34,21.44
+660,672,6,15,Small Fish,1.34,8.040000000000001
+34,35,5,15,Small Fish,1.34,6.7
+663,675,6,15,Small Fish,1.34,8.040000000000001
+1014,1031,20,15,Small Fish,1.34,26.8
+200,201,9,15,Small Fish,1.34,12.06
+402,409,4,15,Small Fish,1.34,5.36
+61,62,10,15,Small Fish,1.34,13.4
+526,536,8,15,Small Fish,1.34,10.72
+1070,1088,18,15,Small Fish,1.34,24.12
+192,193,12,15,Small Fish,1.34,16.080000000000002
+237,239,16,15,Small Fish,1.34,21.44
+699,712,11,15,Small Fish,1.34,14.74
+1084,1102,16,15,Small Fish,1.34,21.44
+482,489,7,15,Small Fish,1.34,9.38
+957,973,13,15,Small Fish,1.34,17.42
+332,338,11,15,Small Fish,1.34,14.74
+155,156,15,15,Small Fish,1.34,20.1
+946,962,11,15,Small Fish,1.34,14.74
+70,71,14,15,Small Fish,1.34,18.76
+54,55,11,15,Small Fish,1.34,14.74
+733,746,11,15,Small Fish,1.34,14.74
+597,609,9,15,Small Fish,1.34,12.06
+973,989,16,15,Small Fish,1.34,21.44
+39,40,19,15,Small Fish,1.34,25.46
+581,592,10,15,Small Fish,1.34,13.4
+784,799,20,7,Sleek Granite Car,9.03,180.6
+467,474,17,7,Sleek Granite Car,9.03,153.51
+488,495,7,7,Sleek Granite Car,9.03,63.209999999999994
+73,74,7,7,Sleek Granite Car,9.03,63.209999999999994
+934,950,18,7,Sleek Granite Car,9.03,162.54
+970,986,5,7,Sleek Granite Car,9.03,45.15
+288,293,20,7,Sleek Granite Car,9.03,180.6
+1052,1070,20,7,Sleek Granite Car,9.03,180.6
+195,196,7,7,Sleek Granite Car,9.03,63.209999999999994
+516,526,14,7,Sleek Granite Car,9.03,126.41999999999999
+540,550,8,7,Sleek Granite Car,9.03,72.24
+366,372,7,7,Sleek Granite Car,9.03,63.209999999999994
+972,988,18,7,Sleek Granite Car,9.03,162.54
+1083,1101,3,7,Sleek Granite Car,9.03,27.089999999999996
+229,231,16,7,Sleek Granite Car,9.03,144.48
+253,255,18,7,Sleek Granite Car,9.03,162.54
+911,927,10,7,Sleek Granite Car,9.03,90.3
+833,848,14,7,Sleek Granite Car,9.03,126.41999999999999
+460,467,20,36,Sleek Concrete Cheese,3.92,78.4
+370,376,20,36,Sleek Concrete Cheese,3.92,78.4
+95,96,5,36,Sleek Concrete Cheese,3.92,19.6
+1043,1061,2,36,Sleek Concrete Cheese,3.92,7.84
+561,571,2,36,Sleek Concrete Cheese,3.92,7.84
+231,233,16,36,Sleek Concrete Cheese,3.92,62.72
+751,765,17,36,Sleek Concrete Cheese,3.92,66.64
+145,146,9,36,Sleek Concrete Cheese,3.92,35.28
+170,171,12,36,Sleek Concrete Cheese,3.92,47.04
+41,42,14,36,Sleek Concrete Cheese,3.92,54.879999999999995
+75,76,3,36,Sleek Concrete Cheese,3.92,11.76
+37,38,7,36,Sleek Concrete Cheese,3.92,27.439999999999998
+1032,1050,11,36,Sleek Concrete Cheese,3.92,43.12
+306,311,6,36,Sleek Concrete Cheese,3.92,23.52
+293,298,15,36,Sleek Concrete Cheese,3.92,58.8
+135,136,5,36,Sleek Concrete Cheese,3.92,19.6
+899,914,16,36,Sleek Concrete Cheese,3.92,62.72
+1061,1079,8,36,Sleek Concrete Cheese,3.92,31.36
+494,503,13,36,Sleek Concrete Cheese,3.92,50.96
+87,88,11,36,Sleek Concrete Cheese,3.92,43.12
+416,423,12,36,Sleek Concrete Cheese,3.92,47.04
+811,826,14,11,Shoes,7.13,99.82
+807,822,6,11,Shoes,7.13,42.78
+132,133,17,11,Shoes,7.13,121.21
+438,445,3,11,Shoes,7.13,21.39
+854,869,6,11,Shoes,7.13,42.78
+933,949,15,11,Shoes,7.13,106.95
+825,840,17,11,Shoes,7.13,121.21
+101,102,13,11,Shoes,7.13,92.69
+120,121,8,11,Shoes,7.13,57.04
+591,602,10,11,Shoes,7.13,71.3
+522,532,13,11,Shoes,7.13,92.69
+697,710,4,11,Shoes,7.13,28.52
+517,527,6,11,Shoes,7.13,42.78
+280,285,18,11,Shoes,7.13,128.34
+549,559,14,11,Shoes,7.13,99.82
+631,643,20,11,Shoes,7.13,142.6
+615,627,15,11,Shoes,7.13,106.95
+986,1003,1,11,Shoes,7.13,7.13
+556,566,11,11,Shoes,7.13,78.42999999999999
+461,468,16,11,Shoes,7.13,114.08
+570,581,11,11,Shoes,7.13,78.42999999999999
+747,761,15,11,Shoes,7.13,106.95
+1031,1049,13,11,Shoes,7.13,92.69
+612,624,13,18,Shirt,0.23,2.99
+608,620,11,18,Shirt,0.23,2.5300000000000002
+818,833,5,18,Shirt,0.23,1.1500000000000001
+397,404,1,18,Shirt,0.23,0.23
+678,691,4,18,Shirt,0.23,0.92
+857,872,3,18,Shirt,0.23,0.6900000000000001
+1051,1069,12,18,Shirt,0.23,2.7600000000000002
+945,961,9,18,Shirt,0.23,2.0700000000000003
+304,309,18,18,Shirt,0.23,4.140000000000001
+766,780,8,18,Shirt,0.23,1.84
+424,431,6,18,Shirt,0.23,1.3800000000000001
+427,434,17,18,Shirt,0.23,3.91
+501,511,3,18,Shirt,0.23,0.6900000000000001
+687,700,5,3,Sausages,5.42,27.1
+719,732,7,3,Sausages,5.42,37.94
+1048,1066,9,46,Sausages,3.79,34.11
+602,614,16,3,Sausages,5.42,86.72
+742,756,19,3,Sausages,5.42,102.98
+974,990,2,3,Sausages,5.42,10.84
+478,485,17,3,Sausages,5.42,92.14
+847,862,14,46,Sausages,3.79,53.06
+619,631,12,46,Sausages,3.79,45.480000000000004
+555,565,3,46,Sausages,3.79,11.370000000000001
+392,398,2,3,Sausages,5.42,10.84
+647,659,11,3,Sausages,5.42,59.62
+803,818,2,46,Sausages,3.79,7.58
+533,543,7,3,Sausages,5.42,37.94
+1082,1100,18,46,Sausages,3.79,68.22
+712,725,20,3,Sausages,5.42,108.4
+709,722,5,3,Sausages,5.42,27.1
+758,772,13,46,Sausages,3.79,49.27
+546,556,11,46,Sausages,3.79,41.69
+1091,1109,1,46,Sausages,3.79,3.79
+265,268,12,3,Sausages,5.42,65.03999999999999
+118,119,2,3,Sausages,5.42,10.84
+358,364,14,46,Sausages,3.79,53.06
+298,303,9,3,Sausages,5.42,48.78
+199,200,17,46,Sausages,3.79,64.43
+243,245,12,3,Sausages,5.42,65.03999999999999
+250,252,13,46,Sausages,3.79,49.27
+134,135,14,3,Sausages,5.42,75.88
+277,281,1,3,Sausages,5.42,5.42
+151,152,3,46,Sausages,3.79,11.370000000000001
+214,215,20,3,Sausages,5.42,108.4
+345,351,10,46,Sausages,3.79,37.9
+321,327,1,3,Sausages,5.42,5.42
+348,354,8,46,Sausages,3.79,30.32
+72,73,7,43,Salad,0.53,3.71
+182,183,14,43,Salad,0.53,7.42
+575,586,1,43,Salad,0.53,0.53
+815,830,8,43,Salad,0.53,4.24
+1049,1067,12,43,Salad,0.53,6.36
+936,952,20,43,Salad,0.53,10.600000000000001
+230,232,9,43,Salad,0.53,4.7700000000000005
+80,81,20,43,Salad,0.53,10.600000000000001
+835,850,6,43,Salad,0.53,3.18
+315,320,1,43,Salad,0.53,0.53
+305,310,11,43,Salad,0.53,5.83
+86,87,3,43,Salad,0.53,1.59
+205,206,6,43,Salad,0.53,3.18
+307,312,14,43,Salad,0.53,7.42
+858,873,13,43,Salad,0.53,6.890000000000001
+542,552,15,52,Rubber Towels,4.72,70.8
+760,774,20,52,Rubber Towels,4.72,94.39999999999999
+340,346,15,52,Rubber Towels,4.72,70.8
+797,812,19,52,Rubber Towels,4.72,89.67999999999999
+64,65,4,52,Rubber Towels,4.72,18.88
+850,865,7,52,Rubber Towels,4.72,33.04
+292,297,13,52,Rubber Towels,4.72,61.36
+513,523,2,52,Rubber Towels,4.72,9.44
+832,847,11,52,Rubber Towels,4.72,51.919999999999995
+886,901,12,52,Rubber Towels,4.72,56.64
+12,13,20,52,Rubber Towels,4.72,94.39999999999999
+690,703,15,52,Rubber Towels,4.72,70.8
+254,256,5,52,Rubber Towels,4.72,23.599999999999998
+614,626,3,52,Rubber Towels,4.72,14.16
+675,688,11,52,Rubber Towels,4.72,51.919999999999995
+634,646,13,52,Rubber Towels,4.72,61.36
+386,392,14,52,Rubber Towels,4.72,66.08
+713,726,5,52,Rubber Towels,4.72,23.599999999999998
+667,680,19,52,Rubber Towels,4.72,89.67999999999999
+976,992,12,48,Rubber Mouse,7.85,94.19999999999999
+104,105,9,48,Rubber Mouse,7.85,70.64999999999999
+580,591,16,48,Rubber Mouse,7.85,125.6
+771,786,11,48,Rubber Mouse,7.85,86.35
+534,544,14,48,Rubber Mouse,7.85,109.89999999999999
+1025,1043,1,48,Rubber Mouse,7.85,7.85
+257,259,18,48,Rubber Mouse,7.85,141.29999999999998
+587,598,19,48,Rubber Mouse,7.85,149.15
+657,669,6,48,Rubber Mouse,7.85,47.099999999999994
+990,1007,9,48,Rubber Mouse,7.85,70.64999999999999
+654,666,14,48,Rubber Mouse,7.85,109.89999999999999
+735,748,11,48,Rubber Mouse,7.85,86.35
+344,350,20,48,Rubber Mouse,7.85,157.0
+233,235,16,48,Rubber Mouse,7.85,125.6
+222,224,7,48,Rubber Mouse,7.85,54.949999999999996
+683,696,8,48,Rubber Mouse,7.85,62.8
+681,694,1,30,Refined Cotton Sausages,3.78,3.78
+492,501,1,30,Refined Cotton Sausages,3.78,3.78
+419,426,13,30,Refined Cotton Sausages,3.78,49.14
+948,964,8,30,Refined Cotton Sausages,3.78,30.24
+477,484,4,30,Refined Cotton Sausages,3.78,15.12
+722,735,10,30,Refined Cotton Sausages,3.78,37.8
+349,355,9,30,Refined Cotton Sausages,3.78,34.019999999999996
+894,909,13,30,Refined Cotton Sausages,3.78,49.14
+459,466,1,30,Refined Cotton Sausages,3.78,3.78
+342,348,19,30,Refined Cotton Sausages,3.78,71.82
+472,479,14,30,Refined Cotton Sausages,3.78,52.919999999999995
+470,477,16,30,Refined Cotton Sausages,3.78,60.48
+1020,1038,18,30,Refined Cotton Sausages,3.78,68.03999999999999
+107,108,1,30,Refined Cotton Sausages,3.78,3.78
+550,560,16,56,Refined Ball,6.3,100.8
+208,209,18,56,Refined Ball,6.3,113.39999999999999
+268,272,12,56,Refined Ball,6.3,75.6
+566,576,16,56,Refined Ball,6.3,100.8
+790,805,18,56,Refined Ball,6.3,113.39999999999999
+162,163,7,56,Refined Ball,6.3,44.1
+725,738,14,56,Refined Ball,6.3,88.2
+740,754,3,56,Refined Ball,6.3,18.9
+376,382,5,56,Refined Ball,6.3,31.5
+520,530,16,56,Refined Ball,6.3,100.8
+621,633,8,56,Refined Ball,6.3,50.4
+1038,1056,7,56,Refined Ball,6.3,44.1
+455,462,17,56,Refined Ball,6.3,107.1
+1018,1036,4,56,Refined Ball,6.3,25.2
+456,463,4,56,Refined Ball,6.3,25.2
+1036,1054,1,56,Refined Ball,6.3,6.3
+362,368,16,44,Practical Tuna,1.0,16.0
+110,111,7,44,Practical Tuna,1.0,7.0
+655,667,19,44,Practical Tuna,1.0,19.0
+662,674,4,44,Practical Tuna,1.0,4.0
+335,341,8,44,Practical Tuna,1.0,8.0
+884,899,15,44,Practical Tuna,1.0,15.0
+148,149,13,44,Practical Tuna,1.0,13.0
+328,334,19,44,Practical Tuna,1.0,19.0
+43,44,16,44,Practical Tuna,1.0,16.0
+1015,1032,11,44,Practical Tuna,1.0,11.0
+174,175,2,44,Practical Tuna,1.0,2.0
+572,583,20,44,Practical Tuna,1.0,20.0
+409,416,7,44,Practical Tuna,1.0,7.0
+609,621,9,44,Practical Tuna,1.0,9.0
+808,823,8,44,Practical Tuna,1.0,8.0
+871,886,12,44,Practical Tuna,1.0,12.0
+881,896,18,44,Practical Tuna,1.0,18.0
+463,470,20,44,Practical Tuna,1.0,20.0
+167,168,12,41,Practical Steel Towels,4.49,53.88
+508,518,17,41,Practical Steel Towels,4.49,76.33
+439,446,5,41,Practical Steel Towels,4.49,22.450000000000003
+6,7,6,41,Practical Steel Towels,4.49,26.94
+202,203,10,41,Practical Steel Towels,4.49,44.900000000000006
+643,655,6,41,Practical Steel Towels,4.49,26.94
+669,682,18,41,Practical Steel Towels,4.49,80.82000000000001
+671,684,10,41,Practical Steel Towels,4.49,44.900000000000006
+626,638,2,41,Practical Steel Towels,4.49,8.98
+81,82,13,41,Practical Steel Towels,4.49,58.370000000000005
+415,422,10,41,Practical Steel Towels,4.49,44.900000000000006
+1023,1041,2,41,Practical Steel Towels,4.49,8.98
+607,619,15,41,Practical Steel Towels,4.49,67.35000000000001
+705,718,5,41,Practical Steel Towels,4.49,22.450000000000003
+1075,1093,6,35,Practical Fish,8.83,52.980000000000004
+67,68,17,35,Practical Fish,8.83,150.11
+532,542,18,35,Practical Fish,8.83,158.94
+31,32,1,35,Practical Fish,8.83,8.83
+796,811,13,35,Practical Fish,8.83,114.79
+283,288,8,35,Practical Fish,8.83,70.64
+1087,1105,18,35,Practical Fish,8.83,158.94
+27,28,14,35,Practical Fish,8.83,123.62
+393,399,11,35,Practical Fish,8.83,97.13
+103,104,16,35,Practical Fish,8.83,141.28
+82,83,5,35,Practical Fish,8.83,44.15
+930,946,11,35,Practical Fish,8.83,97.13
+489,497,18,35,Practical Fish,8.83,158.94
+938,954,11,35,Practical Fish,8.83,97.13
+830,845,18,35,Practical Fish,8.83,158.94
+613,625,17,24,Plastic Pants,6.62,112.54
+471,478,16,24,Plastic Pants,6.62,105.92
+743,757,4,24,Plastic Pants,6.62,26.48
+378,384,13,24,Plastic Pants,6.62,86.06
+994,1011,15,24,Plastic Pants,6.62,99.3
+748,762,12,24,Plastic Pants,6.62,79.44
+19,20,9,24,Plastic Pants,6.62,59.58
+450,457,11,24,Plastic Pants,6.62,72.82000000000001
+874,889,15,24,Plastic Pants,6.62,99.3
+768,782,8,24,Plastic Pants,6.62,52.96
+954,970,2,24,Plastic Pants,6.62,13.24
+500,510,2,24,Plastic Pants,6.62,13.24
+8,9,16,24,Plastic Pants,6.62,105.92
+91,92,10,24,Plastic Pants,6.62,66.2
+113,114,3,24,Plastic Pants,6.62,19.86
+692,705,15,24,Plastic Pants,6.62,99.3
+354,360,5,24,Plastic Pants,6.62,33.1
+197,198,11,24,Plastic Pants,6.62,72.82000000000001
+503,513,5,24,Plastic Pants,6.62,33.1
+623,635,6,24,Plastic Pants,6.62,39.72
+883,898,19,51,Pants,9.89,187.91000000000003
+2,3,11,51,Pants,9.89,108.79
+726,739,7,51,Pants,9.89,69.23
+189,190,5,51,Pants,9.89,49.45
+30,31,1,51,Pants,9.89,9.89
+221,223,2,51,Pants,9.89,19.78
+115,116,10,51,Pants,9.89,98.9
+452,459,20,51,Pants,9.89,197.8
+316,321,17,51,Pants,9.89,168.13
+694,707,9,51,Pants,9.89,89.01
+434,441,17,51,Pants,9.89,168.13
+826,841,14,51,Pants,9.89,138.46
+74,75,3,51,Pants,9.89,29.67
+677,690,1,51,Pants,9.89,9.89
+4,5,7,51,Pants,9.89,69.23
+779,794,11,51,Pants,9.89,108.79
+506,516,8,51,Pants,9.89,79.12
+10,11,5,51,Pants,9.89,49.45
+403,410,8,57,New Fresh Chips,7.73,61.84
+646,658,12,57,New Fresh Chips,7.73,92.76
+187,188,2,57,New Fresh Chips,7.73,15.46
+398,405,1,57,New Fresh Chips,7.73,7.73
+217,219,14,57,New Fresh Chips,7.73,108.22
+249,251,8,57,New Fresh Chips,7.73,61.84
+583,594,13,57,New Fresh Chips,7.73,100.49000000000001
+209,210,13,57,New Fresh Chips,7.73,100.49000000000001
+1077,1095,4,57,New Fresh Chips,7.73,30.92
+605,617,15,57,New Fresh Chips,7.73,115.95
+651,663,19,57,New Fresh Chips,7.73,146.87
+982,998,1,57,New Fresh Chips,7.73,7.73
+890,905,7,57,New Fresh Chips,7.73,54.11
+178,179,11,57,New Fresh Chips,7.73,85.03
+814,829,11,57,New Fresh Chips,7.73,85.03
+728,741,3,57,New Fresh Chips,7.73,23.19
+841,856,3,57,New Fresh Chips,7.73,23.19
+744,758,12,57,New Fresh Chips,7.73,92.76
+977,993,1,57,New Fresh Chips,7.73,7.73
+56,57,11,57,New Fresh Chips,7.73,85.03
+1062,1080,9,12,Mouse,6.42,57.78
+497,506,15,42,Mouse,9.46,141.9
+130,131,10,12,Mouse,6.42,64.2
+812,827,2,42,Mouse,9.46,18.92
+944,960,16,12,Mouse,6.42,102.72
+122,123,15,42,Mouse,9.46,141.9
+383,389,6,12,Mouse,6.42,38.519999999999996
+831,846,6,12,Mouse,6.42,38.519999999999996
+907,923,15,12,Mouse,6.42,96.3
+836,851,19,12,Mouse,6.42,121.98
+285,290,9,42,Mouse,9.46,85.14000000000001
+215,216,16,42,Mouse,9.46,151.36
+861,876,1,12,Mouse,6.42,6.42
+864,879,12,42,Mouse,9.46,113.52000000000001
+872,887,9,12,Mouse,6.42,57.78
+102,103,11,12,Mouse,6.42,70.62
+656,668,3,12,Mouse,6.42,19.259999999999998
+375,381,19,12,Mouse,6.42,121.98
+184,185,20,12,Mouse,6.42,128.4
+68,69,5,12,Mouse,6.42,32.1
+1034,1052,12,42,Mouse,9.46,113.52000000000001
+49,50,1,12,Mouse,6.42,6.42
+465,472,2,42,Mouse,9.46,18.92
+558,568,19,42,Mouse,9.46,179.74
+136,137,10,42,Mouse,9.46,94.60000000000001
+763,777,20,12,Mouse,6.42,128.4
+350,356,12,12,Mouse,6.42,77.03999999999999
+282,287,10,42,Mouse,9.46,94.60000000000001
+794,809,9,12,Mouse,6.42,57.78
+435,442,19,12,Mouse,6.42,121.98
+801,816,8,42,Mouse,9.46,75.68
+138,139,15,42,Mouse,9.46,141.9
+727,740,3,42,Mouse,9.46,28.380000000000003
+164,165,8,54,Licensed Plastic Bike,9.3,74.4
+25,26,15,54,Licensed Plastic Bike,9.3,139.5
+879,894,16,54,Licensed Plastic Bike,9.3,148.8
+3,4,17,54,Licensed Plastic Bike,9.3,158.10000000000002
+906,922,20,54,Licensed Plastic Bike,9.3,186.0
+156,157,20,54,Licensed Plastic Bike,9.3,186.0
+1078,1096,1,54,Licensed Plastic Bike,9.3,9.3
+147,148,2,54,Licensed Plastic Bike,9.3,18.6
+943,959,19,54,Licensed Plastic Bike,9.3,176.70000000000002
+698,711,20,54,Licensed Plastic Bike,9.3,186.0
+173,174,4,54,Licensed Plastic Bike,9.3,37.2
+363,369,14,54,Licensed Plastic Bike,9.3,130.20000000000002
+330,336,2,54,Licensed Plastic Bike,9.3,18.6
+507,517,14,54,Licensed Plastic Bike,9.3,130.20000000000002
+238,240,5,54,Licensed Plastic Bike,9.3,46.5
+286,291,9,54,Licensed Plastic Bike,9.3,83.7
+294,299,20,54,Licensed Plastic Bike,9.3,186.0
+271,275,2,54,Licensed Plastic Bike,9.3,18.6
+278,282,12,54,Licensed Plastic Bike,9.3,111.60000000000001
+405,412,20,54,Licensed Plastic Bike,9.3,186.0
+299,304,14,54,Licensed Plastic Bike,9.3,130.20000000000002
+770,785,17,20,Licensed Cheese,3.93,66.81
+287,292,2,20,Licensed Cheese,3.93,7.86
+483,490,12,20,Licensed Cheese,3.93,47.160000000000004
+695,708,18,20,Licensed Cheese,3.93,70.74000000000001
+668,681,18,20,Licensed Cheese,3.93,70.74000000000001
+146,147,6,20,Licensed Cheese,3.93,23.580000000000002
+94,95,5,20,Licensed Cheese,3.93,19.650000000000002
+255,257,5,20,Licensed Cheese,3.93,19.650000000000002
+985,1002,13,20,Licensed Cheese,3.93,51.09
+46,47,12,20,Licensed Cheese,3.93,47.160000000000004
+226,228,9,20,Licensed Cheese,3.93,35.370000000000005
+837,852,9,20,Licensed Cheese,3.93,35.370000000000005
+429,436,1,20,Licensed Cheese,3.93,3.93
+1013,1030,19,20,Licensed Cheese,3.93,74.67
+372,378,6,20,Licensed Cheese,3.93,23.580000000000002
+273,277,9,20,Licensed Cheese,3.93,35.370000000000005
+244,246,17,20,Licensed Cheese,3.93,66.81
+441,448,18,20,Licensed Cheese,3.93,70.74000000000001
+117,118,14,20,Licensed Cheese,3.93,55.02
+213,214,16,20,Licensed Cheese,3.93,62.88
+318,323,18,20,Licensed Cheese,3.93,70.74000000000001
+198,199,6,20,Licensed Cheese,3.93,23.580000000000002
+777,792,5,58,Intelligent Chips,7.69,38.45
+959,975,10,58,Intelligent Chips,7.69,76.9
+50,51,16,58,Intelligent Chips,7.69,123.04
+544,554,14,58,Intelligent Chips,7.69,107.66000000000001
+21,22,11,58,Intelligent Chips,7.69,84.59
+519,529,10,58,Intelligent Chips,7.69,76.9
+804,819,18,58,Intelligent Chips,7.69,138.42000000000002
+518,528,20,58,Intelligent Chips,7.69,153.8
+809,824,1,58,Intelligent Chips,7.69,7.69
+718,731,8,58,Intelligent Chips,7.69,61.52
+834,849,5,58,Intelligent Chips,7.69,38.45
+707,720,18,58,Intelligent Chips,7.69,138.42000000000002
+1066,1084,5,58,Intelligent Chips,7.69,38.45
+891,906,13,58,Intelligent Chips,7.69,99.97
+1004,1021,12,58,Intelligent Chips,7.69,92.28
+599,611,15,58,Intelligent Chips,7.69,115.35000000000001
+653,665,14,58,Intelligent Chips,7.69,107.66000000000001
+993,1010,8,25,Incredible Hat,1.92,15.36
+565,575,3,25,Incredible Hat,1.92,5.76
+875,890,3,25,Incredible Hat,1.92,5.76
+159,160,5,25,Incredible Hat,1.92,9.6
+548,558,13,25,Incredible Hat,1.92,24.96
+71,72,10,25,Incredible Hat,1.92,19.2
+1040,1058,10,25,Incredible Hat,1.92,19.2
+538,548,1,25,Incredible Hat,1.92,1.92
+251,253,10,25,Incredible Hat,1.92,19.2
+913,929,15,25,Incredible Hat,1.92,28.799999999999997
+860,875,4,25,Incredible Hat,1.92,7.68
+326,332,11,25,Incredible Hat,1.92,21.119999999999997
+798,813,16,25,Incredible Hat,1.92,30.72
+207,208,4,25,Incredible Hat,1.92,7.68
+672,685,9,25,Incredible Hat,1.92,17.28
+559,569,13,25,Incredible Hat,1.92,24.96
+620,632,8,25,Incredible Hat,1.92,15.36
+918,934,19,25,Incredible Hat,1.92,36.48
+664,676,18,25,Incredible Hat,1.92,34.56
+560,570,17,25,Incredible Hat,1.92,32.64
+258,260,9,19,Hat,6.92,62.28
+715,728,6,19,Hat,6.92,41.519999999999996
+731,744,4,19,Hat,6.92,27.68
+700,713,13,19,Hat,6.92,89.96
+737,751,16,19,Hat,6.92,110.72
+964,980,19,19,Hat,6.92,131.48
+521,531,17,19,Hat,6.92,117.64
+309,314,20,19,Hat,6.92,138.4
+844,859,7,19,Hat,6.92,48.44
+885,900,6,19,Hat,6.92,41.519999999999996
+637,649,19,19,Hat,6.92,131.48
+98,99,7,19,Hat,6.92,48.44
+65,66,5,19,Hat,6.92,34.6
+1030,1048,14,19,Hat,6.92,96.88
+788,803,15,19,Hat,6.92,103.8
+780,795,8,19,Hat,6.92,55.36
+953,969,8,19,Hat,6.92,55.36
+805,820,5,45,Handcrafted Wooden Fish,8.95,44.75
+264,267,17,45,Handcrafted Wooden Fish,8.95,152.14999999999998
+131,132,20,45,Handcrafted Wooden Fish,8.95,179.0
+898,913,3,45,Handcrafted Wooden Fish,8.95,26.849999999999998
+783,798,7,45,Handcrafted Wooden Fish,8.95,62.64999999999999
+824,839,3,45,Handcrafted Wooden Fish,8.95,26.849999999999998
+274,278,10,45,Handcrafted Wooden Fish,8.95,89.5
+714,727,4,45,Handcrafted Wooden Fish,8.95,35.8
+724,737,2,45,Handcrafted Wooden Fish,8.95,17.9
+0,1,6,45,Handcrafted Wooden Fish,8.95,53.699999999999996
+365,371,16,45,Handcrafted Wooden Fish,8.95,143.2
+1063,1081,4,45,Handcrafted Wooden Fish,8.95,35.8
+1053,1071,10,45,Handcrafted Wooden Fish,8.95,89.5
+666,679,12,45,Handcrafted Wooden Fish,8.95,107.39999999999999
+42,43,14,45,Handcrafted Wooden Fish,8.95,125.29999999999998
+1011,1028,1,45,Handcrafted Wooden Fish,8.95,8.95
+191,192,19,45,Handcrafted Wooden Fish,8.95,170.04999999999998
+32,33,3,45,Handcrafted Wooden Fish,8.95,26.849999999999998
+16,17,19,45,Handcrafted Wooden Fish,8.95,170.04999999999998
+1009,1026,13,45,Handcrafted Wooden Fish,8.95,116.35
+228,230,18,45,Handcrafted Wooden Fish,8.95,161.1
+1076,1094,14,45,Handcrafted Wooden Fish,8.95,125.29999999999998
+23,24,7,14,Handcrafted Hat,3.55,24.849999999999998
+1046,1064,4,14,Handcrafted Hat,3.55,14.2
+451,458,6,14,Handcrafted Hat,3.55,21.299999999999997
+89,90,5,14,Handcrafted Hat,3.55,17.75
+909,925,13,14,Handcrafted Hat,3.55,46.15
+1028,1046,18,14,Handcrafted Hat,3.55,63.9
+756,770,15,14,Handcrafted Hat,3.55,53.25
+914,930,14,14,Handcrafted Hat,3.55,49.699999999999996
+52,53,5,14,Handcrafted Hat,3.55,17.75
+99,100,14,14,Handcrafted Hat,3.55,49.699999999999996
+870,885,3,14,Handcrafted Hat,3.55,10.649999999999999
+1088,1106,14,14,Handcrafted Hat,3.55,49.699999999999996
+476,483,5,14,Handcrafted Hat,3.55,17.75
+290,295,14,14,Handcrafted Hat,3.55,49.699999999999996
+880,895,15,14,Handcrafted Hat,3.55,53.25
+980,996,4,14,Handcrafted Hat,3.55,14.2
+816,831,18,14,Handcrafted Hat,3.55,63.9
+895,910,13,14,Handcrafted Hat,3.55,46.15
+759,773,16,14,Handcrafted Hat,3.55,56.8
+901,916,20,16,Gorgeous Salad,9.85,197.0
+1079,1097,3,16,Gorgeous Salad,9.85,29.549999999999997
+1081,1099,4,16,Gorgeous Salad,9.85,39.4
+361,367,15,16,Gorgeous Salad,9.85,147.75
+910,926,20,16,Gorgeous Salad,9.85,197.0
+479,486,2,16,Gorgeous Salad,9.85,19.7
+486,493,1,16,Gorgeous Salad,9.85,9.85
+674,687,12,16,Gorgeous Salad,9.85,118.19999999999999
+1022,1040,19,16,Gorgeous Salad,9.85,187.15
+220,222,10,16,Gorgeous Salad,9.85,98.5
+563,573,15,16,Gorgeous Salad,9.85,147.75
+1001,1018,2,16,Gorgeous Salad,9.85,19.7
+928,944,13,37,Frozen Computer,2.26,29.379999999999995
+840,855,9,37,Frozen Computer,2.26,20.339999999999996
+246,248,19,37,Frozen Computer,2.26,42.94
+425,432,17,37,Frozen Computer,2.26,38.419999999999995
+431,438,17,37,Frozen Computer,2.26,38.419999999999995
+413,420,19,37,Frozen Computer,2.26,42.94
+297,302,11,37,Frozen Computer,2.26,24.86
+369,375,13,37,Frozen Computer,2.26,29.379999999999995
+887,902,19,37,Frozen Computer,2.26,42.94
+689,702,6,37,Frozen Computer,2.26,13.559999999999999
+430,437,7,37,Frozen Computer,2.26,15.819999999999999
+577,588,1,37,Frozen Computer,2.26,2.26
+7,8,5,37,Frozen Computer,2.26,11.299999999999999
+564,574,5,37,Frozen Computer,2.26,11.299999999999999
+1059,1077,12,37,Frozen Computer,2.26,27.119999999999997
+960,976,17,37,Frozen Computer,2.26,38.419999999999995
+817,832,19,37,Frozen Computer,2.26,42.94
+752,766,8,37,Frozen Computer,2.26,18.08
+433,440,4,37,Frozen Computer,2.26,9.04
+769,783,7,37,Frozen Computer,2.26,15.819999999999999
+225,227,18,37,Frozen Computer,2.26,40.67999999999999
+76,77,17,2,For repair Soft Table,5.19,88.23
+888,903,10,2,For repair Soft Table,5.19,51.900000000000006
+904,919,18,2,For repair Soft Table,5.19,93.42
+997,1014,9,2,For repair Soft Table,5.19,46.71
+1041,1059,10,2,For repair Soft Table,5.19,51.900000000000006
+140,141,11,2,For repair Soft Table,5.19,57.09
+603,615,15,2,For repair Soft Table,5.19,77.85000000000001
+1089,1107,6,2,For repair Soft Table,5.19,31.14
+262,265,2,2,For repair Soft Table,5.19,10.38
+1069,1087,19,2,For repair Soft Table,5.19,98.61000000000001
+58,59,14,2,For repair Soft Table,5.19,72.66000000000001
+680,693,18,2,For repair Soft Table,5.19,93.42
+123,124,19,2,For repair Soft Table,5.19,98.61000000000001
+1021,1039,19,2,For repair Soft Table,5.19,98.61000000000001
+248,250,1,2,For repair Soft Table,5.19,5.19
+63,64,1,2,For repair Soft Table,5.19,5.19
+149,150,17,2,For repair Soft Table,5.19,88.23
+443,450,8,2,For repair Soft Table,5.19,41.52
+926,942,6,2,For repair Soft Table,5.19,31.14
+582,593,13,2,For repair Soft Table,5.19,67.47
+38,39,16,2,For repair Soft Table,5.19,83.04
+585,596,19,2,For repair Soft Table,5.19,98.61000000000001
+45,46,9,2,For repair Soft Table,5.19,46.71
+142,143,14,2,For repair Soft Table,5.19,72.66000000000001
+33,34,5,2,For repair Soft Table,5.19,25.950000000000003
+589,600,14,2,For repair Soft Table,5.19,72.66000000000001
+1007,1024,19,2,For repair Soft Table,5.19,98.61000000000001
+573,584,14,2,For repair Soft Table,5.19,72.66000000000001
+291,296,7,29,For repair Fresh Fish,9.26,64.82
+480,487,3,29,For repair Fresh Fish,9.26,27.78
+630,642,11,29,For repair Fresh Fish,9.26,101.86
+496,505,11,29,For repair Fresh Fish,9.26,101.86
+882,897,11,29,For repair Fresh Fish,9.26,101.86
+373,379,10,29,For repair Fresh Fish,9.26,92.6
+127,128,16,29,For repair Fresh Fish,9.26,148.16
+474,481,19,29,For repair Fresh Fish,9.26,175.94
+420,427,12,29,For repair Fresh Fish,9.26,111.12
+85,86,5,29,For repair Fresh Fish,9.26,46.3
+284,289,12,29,For repair Fresh Fish,9.26,111.12
+161,162,3,29,For repair Fresh Fish,9.26,27.78
+1017,1034,4,29,For repair Fresh Fish,9.26,37.04
+772,787,18,29,For repair Fresh Fish,9.26,166.68
+932,948,18,29,For repair Fresh Fish,9.26,166.68
+17,18,14,29,For repair Fresh Fish,9.26,129.64
+900,915,17,29,For repair Fresh Fish,9.26,157.42
+445,452,12,29,For repair Fresh Fish,9.26,111.12
+679,692,7,29,For repair Fresh Fish,9.26,64.82
+1057,1075,18,29,For repair Fresh Fish,9.26,166.68
+537,547,11,29,For repair Fresh Fish,9.26,101.86
+869,884,20,1,Fantastic Shoes,2.25,45.0
+339,345,19,1,Fantastic Shoes,2.25,42.75
+866,881,13,1,Fantastic Shoes,2.25,29.25
+153,154,1,1,Fantastic Shoes,2.25,2.25
+862,877,9,1,Fantastic Shoes,2.25,20.25
+446,453,4,1,Fantastic Shoes,2.25,9.0
+29,30,18,1,Fantastic Shoes,2.25,40.5
+778,793,17,1,Fantastic Shoes,2.25,38.25
+84,85,1,1,Fantastic Shoes,2.25,2.25
+185,186,2,1,Fantastic Shoes,2.25,4.5
+160,161,11,1,Fantastic Shoes,2.25,24.75
+795,810,3,1,Fantastic Shoes,2.25,6.75
+569,580,20,1,Fantastic Shoes,2.25,45.0
+641,653,10,1,Fantastic Shoes,2.25,22.5
+1064,1082,18,1,Fantastic Shoes,2.25,40.5
+649,661,13,1,Fantastic Shoes,2.25,29.25
+269,273,5,1,Fantastic Shoes,2.25,11.25
+961,977,6,1,Fantastic Shoes,2.25,13.5
+141,142,17,1,Fantastic Shoes,2.25,38.25
+36,37,7,1,Fantastic Shoes,2.25,15.75
+201,202,11,1,Fantastic Shoes,2.25,24.75
+979,995,7,17,Fantastic Sausages,8.1,56.699999999999996
+1000,1017,10,17,Fantastic Sausages,8.1,81.0
+912,928,19,17,Fantastic Sausages,8.1,153.9
+983,999,3,17,Fantastic Sausages,8.1,24.299999999999997
+1055,1073,1,17,Fantastic Sausages,8.1,8.1
+468,475,20,17,Fantastic Sausages,8.1,162.0
+96,97,14,17,Fantastic Sausages,8.1,113.39999999999999
+411,418,19,17,Fantastic Sausages,8.1,153.9
+618,630,9,17,Fantastic Sausages,8.1,72.89999999999999
+673,686,4,17,Fantastic Sausages,8.1,32.4
+710,723,1,17,Fantastic Sausages,8.1,8.1
+789,804,14,17,Fantastic Sausages,8.1,113.39999999999999
+781,796,1,17,Fantastic Sausages,8.1,8.1
+702,715,14,17,Fantastic Sausages,8.1,113.39999999999999
+547,557,2,17,Fantastic Sausages,8.1,16.2
+701,714,11,17,Fantastic Sausages,8.1,89.1
+552,562,14,17,Fantastic Sausages,8.1,113.39999999999999
+242,244,11,17,Fantastic Sausages,8.1,89.1
+240,242,6,17,Fantastic Sausages,8.1,48.599999999999994
+377,383,17,50,Fantastic Fish,9.59,163.03
+551,561,20,50,Fantastic Fish,9.59,191.8
+708,721,15,50,Fantastic Fish,9.59,143.85
+410,417,18,50,Fantastic Fish,9.59,172.62
+952,968,15,50,Fantastic Fish,9.59,143.85
+1042,1060,14,50,Fantastic Fish,9.59,134.26
+234,236,8,50,Fantastic Fish,9.59,76.72
+915,931,19,50,Fantastic Fish,9.59,182.21
+1056,1074,5,50,Fantastic Fish,9.59,47.95
+1074,1092,11,50,Fantastic Fish,9.59,105.49
+686,699,7,50,Fantastic Fish,9.59,67.13
+920,936,16,50,Fantastic Fish,9.59,153.44
+66,67,20,50,Fantastic Fish,9.59,191.8
+83,84,16,50,Fantastic Fish,9.59,153.44
+732,745,11,50,Fantastic Fish,9.59,105.49
+1016,1033,15,50,Fantastic Fish,9.59,143.85
+867,882,7,50,Fantastic Fish,9.59,67.13
+353,359,9,50,Fantastic Fish,9.59,86.31
+924,940,6,4,Ergonomic Wooden Soap,8.99,53.94
+509,519,12,4,Ergonomic Wooden Soap,8.99,107.88
+329,335,11,4,Ergonomic Wooden Soap,8.99,98.89
+757,771,13,4,Ergonomic Wooden Soap,8.99,116.87
+18,19,14,4,Ergonomic Wooden Soap,8.99,125.86
+774,789,15,4,Ergonomic Wooden Soap,8.99,134.85
+143,144,13,4,Ergonomic Wooden Soap,8.99,116.87
+444,451,7,4,Ergonomic Wooden Soap,8.99,62.93
+204,205,5,4,Ergonomic Wooden Soap,8.99,44.95
+437,444,6,4,Ergonomic Wooden Soap,8.99,53.94
+984,1000,20,4,Ergonomic Wooden Soap,8.99,179.8
+845,860,17,4,Ergonomic Wooden Soap,8.99,152.83
+100,101,9,4,Ergonomic Wooden Soap,8.99,80.91
+175,176,13,4,Ergonomic Wooden Soap,8.99,116.87
+40,41,12,4,Ergonomic Wooden Soap,8.99,107.88
+704,717,13,4,Ergonomic Wooden Soap,8.99,116.87
+545,555,13,4,Ergonomic Wooden Soap,8.99,116.87
+112,113,14,4,Ergonomic Wooden Soap,8.99,125.86
+696,709,4,4,Ergonomic Wooden Soap,8.99,35.96
+216,217,7,4,Ergonomic Wooden Soap,8.99,62.93
+1080,1098,5,4,Ergonomic Wooden Soap,8.99,44.95
+150,151,7,53,Ergonomic Cheese,5.01,35.07
+919,935,1,53,Ergonomic Cheese,5.01,5.01
+968,984,20,53,Ergonomic Cheese,5.01,100.19999999999999
+1005,1022,15,53,Ergonomic Cheese,5.01,75.14999999999999
+355,361,15,53,Ergonomic Cheese,5.01,75.14999999999999
+652,664,14,53,Ergonomic Cheese,5.01,70.14
+588,599,14,53,Ergonomic Cheese,5.01,70.14
+616,628,11,53,Ergonomic Cheese,5.01,55.11
+682,695,20,53,Ergonomic Cheese,5.01,100.19999999999999
+241,243,5,53,Ergonomic Cheese,5.01,25.049999999999997
+903,918,10,53,Ergonomic Cheese,5.01,50.099999999999994
+512,522,2,53,Ergonomic Cheese,5.01,10.02
+449,456,9,53,Ergonomic Cheese,5.01,45.089999999999996
+827,842,14,53,Ergonomic Cheese,5.01,70.14
+139,140,19,53,Ergonomic Cheese,5.01,95.19
+543,553,20,53,Ergonomic Cheese,5.01,100.19999999999999
+389,395,1,53,Ergonomic Cheese,5.01,5.01
+453,460,8,53,Ergonomic Cheese,5.01,40.08
+1071,1089,12,53,Ergonomic Cheese,5.01,60.12
+166,167,19,53,Ergonomic Cheese,5.01,95.19
+181,182,20,53,Ergonomic Cheese,5.01,100.19999999999999
+947,963,15,10,Cotton Sausages,9.89,148.35000000000002
+723,736,18,10,Cotton Sausages,9.89,178.02
+1047,1065,11,10,Cotton Sausages,9.89,108.79
+536,546,7,10,Cotton Sausages,9.89,69.23
+172,173,10,10,Cotton Sausages,9.89,98.9
+949,965,20,10,Cotton Sausages,9.89,197.8
+334,340,12,10,Cotton Sausages,9.89,118.68
+436,443,18,10,Cotton Sausages,9.89,178.02
+969,985,4,10,Cotton Sausages,9.89,39.56
+967,983,11,10,Cotton Sausages,9.89,108.79
+541,551,4,10,Cotton Sausages,9.89,39.56
+855,870,20,10,Cotton Sausages,9.89,197.8
+183,184,19,10,Cotton Sausages,9.89,187.91000000000003
+1019,1037,17,10,Cotton Sausages,9.89,168.13
+227,229,12,10,Cotton Sausages,9.89,118.68
+1072,1090,20,10,Cotton Sausages,9.89,197.8
+114,115,4,10,Cotton Sausages,9.89,39.56
+848,863,7,10,Cotton Sausages,9.89,69.23
+323,329,1,10,Cotton Sausages,9.89,9.89
+514,524,2,10,Cotton Sausages,9.89,19.78
+368,374,17,10,Cotton Sausages,9.89,168.13
+902,917,13,10,Cotton Sausages,9.89,128.57
+640,652,2,10,Cotton Sausages,9.89,19.78
+791,806,4,10,Cotton Sausages,9.89,39.56
+448,455,14,10,Cotton Sausages,9.89,138.46
+775,790,5,10,Cotton Sausages,9.89,49.45
+579,590,20,10,Cotton Sausages,9.89,197.8
+776,791,6,10,Cotton Sausages,9.89,59.34
+116,117,4,10,Cotton Sausages,9.89,39.56
+176,177,13,10,Cotton Sausages,9.89,128.57
+485,492,10,6,Cotton Bike,8.34,83.4
+24,25,9,6,Cotton Bike,8.34,75.06
+670,683,9,6,Cotton Bike,8.34,75.06
+224,226,3,6,Cotton Bike,8.34,25.02
+5,6,2,6,Cotton Bike,8.34,16.68
+625,637,16,6,Cotton Bike,8.34,133.44
+971,987,12,6,Cotton Bike,8.34,100.08
+1090,1108,19,6,Cotton Bike,8.34,158.46
+853,868,14,6,Cotton Bike,8.34,116.75999999999999
+856,871,20,6,Cotton Bike,8.34,166.8
+28,29,6,6,Cotton Bike,8.34,50.04
+676,689,19,6,Cotton Bike,8.34,158.46
+59,60,18,6,Cotton Bike,8.34,150.12
+736,750,11,6,Cotton Bike,8.34,91.74
+245,247,13,6,Cotton Bike,8.34,108.42
+276,280,2,6,Cotton Bike,8.34,16.68
+1068,1086,9,6,Cotton Bike,8.34,75.06
+893,908,11,6,Cotton Bike,8.34,91.74
+684,697,10,6,Cotton Bike,8.34,83.4
+128,129,5,6,Cotton Bike,8.34,41.7
+158,159,2,6,Cotton Bike,8.34,16.68
+412,419,2,6,Cotton Bike,8.34,16.68
+601,613,2,6,Cotton Bike,8.34,16.68
+785,800,12,6,Cotton Bike,8.34,100.08
+530,540,8,6,Cotton Bike,8.34,66.72
+1054,1072,16,6,Cotton Bike,8.34,133.44
+584,595,4,40,Cotton Ball,6.59,26.36
+1029,1047,2,40,Cotton Ball,6.59,13.18
+79,80,4,40,Cotton Ball,6.59,26.36
+729,742,9,40,Cotton Ball,6.59,59.31
+457,464,9,40,Cotton Ball,6.59,59.31
+868,883,20,40,Cotton Ball,6.59,131.8
+475,482,3,40,Cotton Ball,6.59,19.77
+473,480,11,40,Cotton Ball,6.59,72.49
+385,391,12,40,Cotton Ball,6.59,79.08
+367,373,18,40,Cotton Ball,6.59,118.62
+823,838,8,40,Cotton Ball,6.59,52.72
+822,837,12,40,Cotton Ball,6.59,79.08
+232,234,15,40,Cotton Ball,6.59,98.85
+639,651,15,40,Cotton Ball,6.59,98.85
+388,394,5,40,Cotton Ball,6.59,32.95
+767,781,9,40,Cotton Ball,6.59,59.31
+69,70,13,40,Cotton Ball,6.59,85.67
+203,204,9,40,Cotton Ball,6.59,59.31
+272,276,1,40,Cotton Ball,6.59,6.59
+484,491,8,40,Cotton Ball,6.59,52.72
+188,189,8,40,Cotton Ball,6.59,52.72
+236,238,20,34,Concrete Pants,8.52,170.39999999999998
+1035,1053,20,34,Concrete Pants,8.52,170.39999999999998
+13,14,16,34,Concrete Pants,8.52,136.32
+15,16,14,34,Concrete Pants,8.52,119.28
+1073,1091,6,34,Concrete Pants,8.52,51.12
+352,358,5,34,Concrete Pants,8.52,42.599999999999994
+356,362,13,34,Concrete Pants,8.52,110.75999999999999
+574,585,5,34,Concrete Pants,8.52,42.599999999999994
+51,52,19,34,Concrete Pants,8.52,161.88
+428,435,1,34,Concrete Pants,8.52,8.52
+996,1013,6,34,Concrete Pants,8.52,51.12
+786,801,18,34,Concrete Pants,8.52,153.35999999999999
+144,145,16,34,Concrete Pants,8.52,136.32
+341,347,5,34,Concrete Pants,8.52,42.599999999999994
+308,313,20,34,Concrete Pants,8.52,170.39999999999998
+343,349,12,34,Concrete Pants,8.52,102.24
+469,476,14,34,Concrete Pants,8.52,119.28
+109,110,8,34,Concrete Pants,8.52,68.16
+312,317,10,34,Concrete Pants,8.52,85.19999999999999
+896,911,2,28,Concrete Gloves,5.71,11.42
+523,533,6,28,Concrete Gloves,5.71,34.26
+525,535,16,28,Concrete Gloves,5.71,91.36
+942,958,12,28,Concrete Gloves,5.71,68.52
+650,662,13,28,Concrete Gloves,5.71,74.23
+404,411,5,28,Concrete Gloves,5.71,28.55
+852,867,12,28,Concrete Gloves,5.71,68.52
+999,1016,16,28,Concrete Gloves,5.71,91.36
+481,488,6,28,Concrete Gloves,5.71,34.26
+111,112,1,28,Concrete Gloves,5.71,5.71
+78,79,12,28,Concrete Gloves,5.71,68.52
+137,138,10,28,Concrete Gloves,5.71,57.1
+931,947,6,8,Concrete Cheese,1.46,8.76
+648,660,20,8,Concrete Cheese,1.46,29.2
+917,933,1,8,Concrete Cheese,1.46,1.46
+157,158,14,8,Concrete Cheese,1.46,20.439999999999998
+524,534,10,8,Concrete Cheese,1.46,14.6
+571,582,8,8,Concrete Cheese,1.46,11.68
+750,764,11,8,Concrete Cheese,1.46,16.06
+1067,1085,15,8,Concrete Cheese,1.46,21.9
+499,509,10,8,Concrete Cheese,1.46,14.6
+464,471,13,8,Concrete Cheese,1.46,18.98
+988,1005,7,8,Concrete Cheese,1.46,10.219999999999999
+1010,1027,13,8,Concrete Cheese,1.46,18.98
+820,835,3,55,Chair,3.62,10.86
+636,648,9,55,Chair,3.62,32.58
+490,498,3,55,Chair,3.62,10.86
+865,880,9,55,Chair,3.62,32.58
+624,636,17,55,Chair,3.62,61.54
+281,286,1,55,Chair,3.62,3.62
+927,943,9,55,Chair,3.62,32.58
+426,433,17,55,Chair,3.62,61.54
+360,366,6,55,Chair,3.62,21.72
+929,945,7,55,Chair,3.62,25.34
+562,572,18,55,Chair,3.62,65.16
+60,61,18,55,Chair,3.62,65.16
+658,670,17,55,Chair,3.62,61.54
+717,730,4,55,Chair,3.62,14.48
+1044,1062,18,55,Chair,3.62,65.16
+706,719,18,55,Chair,3.62,65.16
+940,956,15,55,Chair,3.62,54.300000000000004
+567,578,18,55,Chair,3.62,65.16
+711,724,19,55,Chair,3.62,68.78
+300,305,20,23,Bike,0.12,2.4
+177,178,1,23,Bike,0.12,0.12
+633,645,4,23,Bike,0.12,0.48
+628,640,17,23,Bike,0.12,2.04
+981,997,20,23,Bike,0.12,2.4
+975,991,13,23,Bike,0.12,1.56
+1085,1103,3,23,Bike,0.12,0.36
+212,213,19,23,Bike,0.12,2.28
+171,172,5,23,Bike,0.12,0.6
+755,769,19,23,Bike,0.12,2.28
+941,957,10,23,Bike,0.12,1.2
+371,377,7,23,Bike,0.12,0.84
+421,428,3,59,Ball,8.45,25.349999999999998
+991,1008,12,59,Ball,8.45,101.39999999999999
+998,1015,15,59,Ball,8.45,126.74999999999999
+346,352,15,59,Ball,8.45,126.74999999999999
+842,857,20,59,Ball,8.45,169.0
+877,892,8,59,Ball,8.45,67.6
+317,322,11,59,Ball,8.45,92.94999999999999
+400,407,9,59,Ball,8.45,76.05
+829,844,15,59,Ball,8.45,126.74999999999999
+121,122,3,59,Ball,8.45,25.349999999999998
+163,164,16,59,Ball,8.45,135.2
+206,207,18,59,Ball,8.45,152.1
+77,78,15,59,Ball,8.45,126.74999999999999
+108,109,4,59,Ball,8.45,33.8
