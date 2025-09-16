@@ -1,0 +1,9 @@
+Challenges I faced:
+
+I have worked with selenium in java before so selenium was pretty familiar to me. Still I never used selenium in python before.
+
+I didnt know how to get multiple pages in the search results at all. The previous code base I worked on had alot of waits, asserts and clicks to navigate to the next page in a series of pages.
+I decided its easier to just change the url of the driver each step. As a result I had to refactor my functions to get a driver pointer and start working on the page directly.
+
+Previously I had coded the page navigation logic to start and close their own drivers. But that was not a good design as it could create too many driver objects when 1 is enough.
+
